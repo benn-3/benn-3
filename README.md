@@ -1,6 +1,9 @@
 # Hi there! 👋  
 🔒 Cyber Threat Intelligence Enthusiast | 🧑‍💻 Cybersecurity Researcher | 🌐 Lifelong Learner
 
+![Cybersecurity Banner](https://camo.githubusercontent.com/1aeda82af9e25c651c95192aebd4e51334a4c4df6923e26753a99d35b9582617/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d70686f746f2f6861636b65722d686f6f6465642d737765617473686972742d676c61737365732d62616e6e65722d6d6164652d776974682d67656e657261746976652d61695f3135353032372d333531352e6a70673f773d31333830)
+
+
 ## 🌟 About Me  
 - 🔭 Currently working on advanced threat detection tools and improving incident response strategies.  
 - 🌱 Exploring OSINT, malware analysis, and adversary tactics.  
