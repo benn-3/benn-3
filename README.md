@@ -6,6 +6,9 @@
 - 🌱 Exploring OSINT, malware analysis, and adversary tactics.  
 - 💬 Ask me about cybersecurity, threat hunting, and digital forensics.
 
+![](https://komarev.com/ghpvc/?username=benn-3&color=brightgreen)
+
+
 ## 🛠️ Skills & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
