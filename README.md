@@ -14,7 +14,7 @@
 ![Maltego](https://img.shields.io/badge/Maltego-1F74F7?style=for-the-badge&logo=Maltego&logoColor=white)
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benn-3&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/benny-hinn-1ba5a1293/))  
