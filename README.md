@@ -18,6 +18,7 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benn-3&show_icons=true&theme=radical)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=benn-3&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benn-3&layout=compact&theme=radical)
 
