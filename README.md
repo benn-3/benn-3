@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ben — Cloud & Security Engineer in the making | AWS Certified | Learning Azure | Cyber Threat Intelligence Enthusiast Benny Hinn</h1>
 <h3 align="center">An aspiring Cloud & Security Engineer passionate about threat intelligence and cloud solutions</h3>
 
+![Cybersecurity Banner](https://camo.githubusercontent.com/1aeda82af9e25c651c95192aebd4e51334a4c4df6923e26753a99d35b9582617/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d70686f746f2f6861636b65722d686f6f6465642d737765617473686972742d676c61737365732d62616e6e65722d6d6164652d776974682d67656e657261746976652d61695f3135353032372d333531352e6a70673f773d31333830)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benn-3&label=Profile%20views&color=0e75b6&style=flat" alt="benn-3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benn-3" alt="benn-3" /></a> </p>
