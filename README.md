@@ -1,31 +1,29 @@
-# Hi there! 👋  
-🔒 Cyber Threat Intelligence Enthusiast | 🧑‍💻 Cybersecurity Researcher | 🌐 Lifelong Learner
+<h1 align="center">Hi 👋, I'm Ben — Cloud & Security Engineer in the making | AWS Certified | Learning Azure | Cyber Threat Intelligence Enthusiast Benny Hinn</h1>
+<h3 align="center">An aspiring Cloud & Security Engineer passionate about threat intelligence and cloud solutions</h3>
 
-![Cybersecurity Banner](https://camo.githubusercontent.com/1aeda82af9e25c651c95192aebd4e51334a4c4df6923e26753a99d35b9582617/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d70686f746f2f6861636b65722d686f6f6465642d737765617473686972742d676c61737365732d62616e6e65722d6d6164652d776974682d67656e657261746976652d61695f3135353032372d333531352e6a70673f773d31333830)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benn-3&label=Profile%20views&color=0e75b6&style=flat" alt="benn-3" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benn-3" alt="benn-3" /></a> </p>
 
-## 🌟 About Me  
-- 🔭 Currently working on advanced threat detection tools and improving incident response strategies.  
-- 🌱 Exploring OSINT, malware analysis, and adversary tactics.  
-- 💬 Ask me about cybersecurity, threat hunting, and digital forensics.
+- 🔭 I’m currently working on [Automated CI/CD Pipeline for Dynamic Web Application](https://github.com/benn-3/Automated-CI-CD-Pipeline-for-Dynamic-Web-Application.git)
 
-  ![](https://komarev.com/ghpvc/?username=benn-3&color=brightgreen)
+- 🌱 I’m currently learning **AWS SysOps, Azure Fundamentals, Cyber Threat Intelligence, and OSINT techniques**
 
-## 🛠️ Skills & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![MISP](https://img.shields.io/badge/MISP-FF6500?style=for-the-badge&logo=MISP&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-6A1F1F?style=for-the-badge&logo=burp&logoColor=white)  
-![Maltego](https://img.shields.io/badge/Maltego-1F74F7?style=for-the-badge&logo=Maltego&logoColor=white)
+- 📝 I regularly write articles on [https://medium.com/@bennyhinm18](https://medium.com/@bennyhinm18)
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benn-3&show_icons=true&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benn-3&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benn-3&layout=compact&theme=radical)
+- 💬 Ask me about **Cybersecurity,AWS Cloud, and Security Best Practices**
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benny-hinn-1ba5a1293/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BennyHi33015517)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/ben0309)
+- 📫 How to reach me **bennyhinm18@gmail.com**
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7mhhaecxt9ersicvk97zhvl9p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify.com)
+- ⚡ Fun fact **I can spend hours exploring a security vulnerability… but still forget where I kept my coffee ☕😂**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benn-3&show_icons=true&locale=en" alt="benn-3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benn-3&" alt="benn-3" /></p>
